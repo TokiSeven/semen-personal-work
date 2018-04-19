@@ -36,9 +36,9 @@ $data = [
 
 <div class="row">
     <?php foreach ($data as $v) : ?>
-        <div class="col col-md-4 mb-3">
-            <div class="card" style="width: 18rem;">
-                <img class="card-img-top" src="<?= $v['img'] ?>" alt="Card image cap">
+        <div class="col-sm-12 col-md-6 col-lg-4 mb-3">
+            <div class="card">
+                <img class="card-img-top img-fluid" src="<?= $v['img'] ?>" alt="Card image cap">
                 <div class="card-body">
                     <p class="card-text"><?= $v['text'] ?></p>
                     <center>
