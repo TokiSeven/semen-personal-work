@@ -7,7 +7,4 @@
             <?php include('navbar.php'); ?>
 
             <div class="row">
-                <div class="col-md-3">
-                    <?php include('sidebar.php'); ?>
-                </div>
-                <div class="col-md-9">
+                <div class="col">
