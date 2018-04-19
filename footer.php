@@ -1,0 +1,1 @@
+<div class="alert alert-warning">Footer</div>
