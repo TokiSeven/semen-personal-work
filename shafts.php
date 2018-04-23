@@ -3,7 +3,7 @@
 <?php
 $data = [
     [
-        'img' => 'https://data.whicdn.com/images/309182776/superthumb.jpg',
+        'img' => 'http://www.ipm-kirov.ru/admin/uploads/5333760075.jpg',
         'title' => "Прямой вал",
         'subItems' => [
             [
@@ -21,11 +21,11 @@ $data = [
             ],
         ],
     ], [
-        'img' => 'https://data.whicdn.com/images/309182776/superthumb.jpg',
+        'img' => 'https://avatars.mds.yandex.net/get-marketpic/363663/market_gIn3Z0Mc_99W19AmRMdsjw/orig',
         'title' => "Коленчатый вал",
         'link' => '#',
     ], [
-        'img' => 'https://data.whicdn.com/images/309182776/superthumb.jpg',
+        'img' => 'http://www.faznik.ru/upload/goods/sources/c18134cf27db1d822fa3787d57f1abb9.jpg',
         'title' => "Гибкий вал",
         'link' => '#',
     ],

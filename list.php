@@ -3,31 +3,31 @@
 <?php
 $data = [
     [
-        'img' => 'https://data.whicdn.com/images/309182776/superthumb.jpg',
+        'img' => 'http://vikon-spb.ru/img/20262010-03-1092703424.jpg',
         'text' => "Деталь, ограниченная поверхностным вращением",
         'link' => '/shafts.php',
     ], [
-        'img' => 'https://data.whicdn.com/images/309182776/superthumb.jpg',
+        'img' => 'https://www.4x4ru.ru/upload/iblock/391/391db3673b6bfe397b324384b72ce13d.jpg',
         'text' => "Пружина",
         'link' => '#',
     ], [
-        'img' => 'https://data.whicdn.com/images/309182776/superthumb.jpg',
+        'img' => 'https://www.airring.com.tw/Templates/pic/IMG-oem-aluminum-foundry-G05.jpg',
         'text' => "Объемная деталь ( литейная)",
         'link' => '#',
     ], [
-        'img' => 'https://data.whicdn.com/images/309182776/superthumb.jpg',
+        'img' => "https://www.zamacarb.com/assets/images/slider_photos/carb16.jpg",
         'text' => "Деталь сложной формы с криволинейной поверхностью",
         'link' => '#',
     ], [
-        'img' => 'https://data.whicdn.com/images/309182776/superthumb.jpg',
+        'img' => 'http://winnie-the-pooh.ru/wp-content/uploads/2016/02/gear_rack_logo.jpg',
         'text' => "Зубчатые колеса и рейки",
         'link' => '#',
     ], [
-        'img' => 'https://data.whicdn.com/images/309182776/superthumb.jpg',
+        'img' => 'https://images.amain.com/images/large/psm/psm01694.jpg',
         'text' => "Деталь, ограниченная плоскостями",
         'link' => '#',
     ], [
-        'img' => 'https://data.whicdn.com/images/309182776/superthumb.jpg',
+        'img' => '//im0-tub-ru.yandex.net/i?id=f6ff3a981a4d5f276483f9216a8a8bc8&n=13',
         'text' => "Деталь со сложным плоским контуром",
         'link' => '#',
     ],
