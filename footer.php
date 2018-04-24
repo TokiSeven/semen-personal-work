@@ -1,1 +1,1 @@
-<div class="alert alert-warning">Footer</div>
+<div class="alert alert-warning">Created by Denis Bulychev 2018</div>

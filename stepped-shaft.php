@@ -5,7 +5,7 @@
     <p class="lead">Способы изготовления</p>
     <hr class="my-4">
     <p>калдптудклподук прук шопукр пжуокр пжукрпз угкрпз укрп</p>
-    <a class="btn btn-primary" href="technology-process.php">Перейти</a>
+    <a class="btn btn-primary" href="technology-process-1.php">Перейти</a>
     <button class="btn btn-primary" data-toggle="modal" data-target="#details">Подробнее</button>
 </div>
 

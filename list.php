@@ -12,7 +12,7 @@ $data = [
         'link' => '#',
     ], [
         'img' => 'https://www.airring.com.tw/Templates/pic/IMG-oem-aluminum-foundry-G05.jpg',
-        'text' => "Объемная деталь ( литейная)",
+        'text' => "Объемная деталь (литейная)",
         'link' => '#',
     ], [
         'img' => "https://www.zamacarb.com/assets/images/slider_photos/carb16.jpg",
