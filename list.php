@@ -3,7 +3,7 @@
 <?php
 $data = [
     [
-        'img' => 'http://vikon-spb.ru/img/20262010-03-1092703424.jpg',
+        'img' => 'http://azmen.a-idea.ru/assets/images/metalloobrabotka/dolbezhnye/shlicy/shlitsy-na-valu.jpg',
         'text' => "Деталь, ограниченная поверхностным вращением",
         'link' => '/shafts.php',
     ], [
@@ -37,12 +37,14 @@ $data = [
 <div class="row">
     <?php foreach ($data as $v) : ?>
         <div class="col-sm-12 col-md-6 col-lg-4 mb-3">
-            <div class="card">
-                <img class="card-img-top img-fluid" src="<?= $v['img'] ?>" alt="Card image cap">
+            <div style="height: 100%" class="card">
+                <img style="height: 100%" class="card-img-top img-fluid" src="<?= $v['img'] ?>" alt="Card image cap">
                 <div class="card-body">
-                    <p class="card-text"><?= $v['text'] ?></p>
                     <center>
-                        <a href="<?= $v['link'] ?>" class="btn btn-secondary">Перейти</a>
+                        <p style="height: 100%" class="card-text"><?= $v['text'] ?></p>
+                        <center>
+                            <a href="<?= $v['link'] ?>" class="btn btn-secondary">Перейти</a>
+                        </center>
                     </center>
                 </div>
             </div>
