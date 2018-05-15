@@ -1,5 +1,5 @@
 <?php include('template-top.php'); ?>
-    <div class="jumbotron">
+    <div  class="jumbotron">
         <h1 class="display-4">Здравствуйте дамы и господа!</h1>
         <p class="lead">Сегодня я хотел бы продемонстрировать Вам мой сайт по деталям...</p>
         <hr class="my-4">
