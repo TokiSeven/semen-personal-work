@@ -1,9 +1,8 @@
 <?php include('template-top.php'); ?>
-    <div  class="jumbotron">
-        <h1 class="display-4">Здравствуйте дамы и господа!</h1>
-        <p class="lead">Сегодня я хотел бы продемонстрировать Вам мой сайт по деталям...</p>
+    <div class="jumbotron">
+        <center><h1 class="display-4">Система подготовки технической документации.</h1></center>
+        <img style="height: 70%" class="card-img-top " src="http://ignis.lviv.ua/files/template/tehzadanie.jpg" alt="Card image cap">
         <hr class="my-4">
-        <p>Предлагаю Вам пройти к просмотру классификаций деталей.</p>
-    <a class="btn btn-primary btn-lg" href="/list.php" role="button">Перейти</a>
+    <a class="btn btn-primary btn-lg" href="/list.php" role="button">Перейти к классификации деталей</a>
     </div>
 <?php include('template-bottom.php'); ?>
