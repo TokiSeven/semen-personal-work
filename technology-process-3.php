@@ -6,6 +6,7 @@
             <div style='height: 800px; width: 700px'>
                 <img style="height: 100%" class="card-img-top " src="/image/operatsia-3.png" alt="Card image cap">
             </div>
+            <h2 class="display-6">Если Вы хотите более подробно узнать про <a href='/shponochnie-pazi.php'>шпоночные пазы</a>, нажмите на элемент. </h2>
         </center>
         <hr class="my-4">
         <a class="btn btn-primary btn-lg" href="#" role="button">Скачать 3D деталь</a>

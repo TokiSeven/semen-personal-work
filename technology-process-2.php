@@ -7,6 +7,7 @@
             <div style='height: 650px; width: 950px'>
                 <img style="height: 100%" class="card-img-top " src="/image/operatsia-2.png" alt="Card image cap">
             </div>
+            <h2 class="display-6">Если Вы хотите более подробно узнать про <a href='/resba.php'>резьбу</a>, <a href='/faska.php'>фаску</a> и <a href='/protochka.php'>проточку</a>, нажмите на нужный элемент. </h2>
         </center>
         <hr class="my-4">
         <a class="btn btn-primary btn-lg" href="#" role="button">Скачать 3D деталь</a>

@@ -11,7 +11,7 @@
                 <a class="nav-link" href="/normativnaya-documentatsia.php">Нормативная документация</a>
             </li>
             <li class="nav-item active">
-                <a class="nav-link" href="#">Электронная библиотека</a>
+                <a class="nav-link" href="/electronnaya-biblioteka.php">Электронная библиотека</a>
             </li>
         </ul>
     </div>

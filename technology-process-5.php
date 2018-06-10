@@ -16,6 +16,6 @@
         <a class="btn btn-primary btn-lg" href="/stepped-shaft.php" role="button">Начать заново</a>
         <a class="btn btn-primary btn-lg" href="/test.php" role="button">Начать тестирование</a>
         <a class="btn btn-primary btn-lg" href="/normativnaya-documentatsia.php" role="button">Нормативная документация</a>
-        <a class="btn btn-primary btn-lg" href="#" role="button">Электронная библиотека</a>
+        <a class="btn btn-primary btn-lg" href="/electronnaya-biblioteka.php" role="button">Электронная библиотека</a>
     </div>
 <?php include('template-bottom.php'); ?>

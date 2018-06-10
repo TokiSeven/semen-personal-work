@@ -33,10 +33,10 @@ body{
 
 	//Массив вопросов и ответа
 	var data_array = [
-	  ["С какой операции начинается технологический процесс обработки детали типа 'Вал'?","Шлифовальная","Токарная","Фрезерно-центровальная","Фрезерная",3],
+	  ["С какой операции начинается технологический процесс обработки детали типа 'Вал'?","шлифовальная","токарная","фрезерно-центровальная","фрезерная",3],
 	  ["На какие два вида разделяется объёмная штамповка","мокрая, сухая","горячая, холодная","твёрдая, жидкая","горячая, мокрая, твёрдая",2],
-	  ["Перевод слова: Dog","Собака","Кошка","Дерево","Сосиска",1],
-	  ["Сколько месяцев в году?","10","11","12","13",3],
+	  ["Какой вид резьбы нарезали в токарной операции?:","метрическая цилиндрическая","трубная коническая","трапецеидальная","круглая",1],
+	  ["Что является основным соединяющим элементом в резьбовом соединении?","Шпонка","Вал","Резьба","Паз",3],
 	  ["Перевод слова: Tree","Три","Собака","Дерево","Дом",3],
 	  ["Перевод слова: Wall","Стена","Дом","Башня","Война",1],
 	];
@@ -120,13 +120,13 @@ body{
                         
             <p style="font-size: 38px;font-weight: bold;padding-top: 2px;" id="question"></p>
             
-            <button onclick="check(1)" class="oganesyan" id="option1"></button>
+            <button onclick="check(1)" class="btn btn-secondary" id="option1"></button>
             
-            <button onclick="check(2)" class="oganesyan" id="option2"></button>
+            <button onclick="check(2)" class="btn btn-secondary" id="option2"></button>
             
-            <button onclick="check(3)" class="oganesyan" id="option3"></button>
+            <button onclick="check(3)" class="btn btn-secondary" id="option3"></button>
             
-            <button onclick="check(4)" class="oganesyan" id="option4"></button>
+            <button onclick="check(4)" class="btn btn-secondary" id="option4"></button>
         </center><br>
         <center>
             <button id="start" class="oganesyan" onclick="check(0)">Приступить к тесту</button>
